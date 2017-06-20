@@ -42,6 +42,7 @@ body {
   height: 700px;
   width:1300px;
   margin-bottom: 30px;
+  margin-top: 51px;
   text-align: center
 }
 /* Since positioning the image, we need to help out the caption */
@@ -50,18 +51,7 @@ body {
 }
 
 /* Declare heights because of positioning of img element */
-.carousel .item {
-  height: 700px;
-  background-color: #777;
-  text-align: center
-}
-.carousel-inner > .item > img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  text-align: center;
-  height: 700px;
-}
+
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
