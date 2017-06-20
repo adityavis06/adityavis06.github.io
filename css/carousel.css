@@ -42,7 +42,6 @@ body {
   height: 700px;
   width:1000px;
   margin-bottom: 30px;
-  text-align:center;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -60,6 +59,9 @@ body {
   left: 0;
   
   height: 700px;
+}
+.carousel-slide {
+  text-align: center;
 }
 
 
