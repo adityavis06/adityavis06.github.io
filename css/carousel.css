@@ -49,6 +49,11 @@ body {
 .carousel-caption {
   z-index: 10;
 }
+.carousel .item {
+  height: 700px;
+  background-color: #777;
+  text-align: center
+}
 
 /* Declare heights because of positioning of img element */
 
