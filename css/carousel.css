@@ -39,7 +39,7 @@ body {
 
 /* Carousel base class */
 .carousel {
-  height: 700px;
+  height: 500px;
   width:1270px;
   margin-bottom: 30px;
   text-align: center
@@ -49,13 +49,13 @@ body {
   z-index: 10;
 }
 #cazza1 {
-  height: 700px;
+  height: 500px;
   background-image: url(/img/me1.jpg);
   background-position: center center;
   background-size: cover;
 }
 .carousel .item {
-  height: 700px;
+  height: 500px;
   background-color: #777;
   text-align: center
 }
