@@ -39,8 +39,8 @@ body {
 
 /* Carousel base class */
 .carousel {
-  height: 500px;
-  width:1270px;
+  height: auto;
+  width:auto;
   margin-bottom: 30px;
   text-align: center
 }
@@ -55,7 +55,7 @@ body {
   background-size: cover;
 }
 .carousel .item {
-  height: 500px;
+  height: auto;
   background-color: #777;
   text-align: center
 }
