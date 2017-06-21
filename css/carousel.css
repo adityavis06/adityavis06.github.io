@@ -48,6 +48,12 @@ body {
 .carousel-caption {
   z-index: 10;
 }
+#cazza1 {
+  height: 700px;
+  background-image: url(/img/me1.jpg);
+  background-position: center center;
+  background-size: cover;
+}
 .carousel .item {
   height: 700px;
   background-color: #777;
